@@ -1,7 +1,5 @@
 # symbol_tables_princeton
 Usage:      java   -cp .:algs4.jar GRHEmployees filename STName 
-Assignment 3
-CS 318
 
 Storing and Retrieving Employee Data
 
